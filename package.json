@@ -2,6 +2,8 @@
   "name": "space-portfolio",
   "version": "1.0.1",
   "private": true,
+  "homepage": "https://aman-kashniyal.github.io/portfolio",
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
